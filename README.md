@@ -29,6 +29,3 @@ Here is the Entity Relationship Diagram (ERD) of the database:
 
 ![Database ER Diagram](./prisma/ERD.svg)
 
-
-If you find it helpful, feel free to check out the [TaskNet Client](https://github.com/Susekh/TaskNest-client) as well!
-
